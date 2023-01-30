@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #000000;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.05em;
+    display: flex;
+    flex-direction: column;
+}
+.container{
+    max-width: 1000px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    align-items: center;
+}
