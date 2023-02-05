@@ -1,0 +1,51 @@
+.technologies h1{
+    font-size: 30px;
+    text-align: left;
+    color: blue;
+}
+article{
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: #FF5A5F 1px;
+    border-radius: 4px;
+}
+article h2{
+    font-size: 30px;
+    align-items:center;
+    text-align: center;
+}
+.technologies{
+    display: flex;
+}
+.price_per_hour{
+color: #FF5A5F;
+border: #FF5A5F; 
+border-radius: 4px;
+width: 60px;
+height: 60px;
+font-size: 30px;
+align-items: top, right;
+
+}
+.information{
+    height: 80px;
+    border-top:  #DDDDDD 1px;
+    border-bottom:  #DDDDDD 1px;
+
+}
+.front_developers{
+    width: 100px;
+}
+.backend_developers{
+    width: 100px;
+}
+.fullstack_developers{
+    width: 100px;
+}
+.team_leader{
+    width: 700px;
+}
+.team_leader p span{
+    font-weight: bold;
+}

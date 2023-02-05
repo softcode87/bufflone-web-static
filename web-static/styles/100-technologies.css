@@ -1,0 +1,18 @@
+.frame-works{
+    margin-top: 40px;
+}
+.frame-works h2{
+    font-size: 16px;
+    border-bottom: #DDDDDD 1px;
+
+}
+.frame-works ul{
+    list-style: none;
+}
+.reviews h2{
+    font-size: 16px;
+    border-bottom: #DDDDDD 1px;
+}
+.reviews ul h3{
+    font-size: 14px;
+}

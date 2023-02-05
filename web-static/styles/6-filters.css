@@ -1,0 +1,66 @@
+.filters{
+    color: white;
+    height: 70px;
+    width: 100%;
+    border: 1px #DDDDDD with radius 4px;
+    display: flex;
+
+    }
+    button{
+        font-size: 18px;
+        background-color: #FF5A5F;
+        color: #FFFFFF;
+        height: 48px;
+        width: 20%; 
+        border-radius: 4px;
+        margin-left: 30px;
+        align-items: center;
+    }
+    button:hover{
+        opacity: 90%;
+    }
+    .languages{
+        height: 100%;
+        width: 25%;
+        border-right: #DDDDDD 1px; 
+
+    }
+    h3{
+        font-weight: 600;
+        color: red;
+
+    }
+    .frameworks{
+        height: 100%;
+        width: 25%;
+        
+    }
+    h4{
+        font-weight: 400;
+        font-size: 14px;
+        color: red;
+
+    }
+    h2{
+        font-size: 16px;
+    }
+    .popover{
+        display: none;
+        color: #FAFAFA;
+        width: 100%;
+        border: #DDDDDD 1px; 
+        border-radius: 4px;
+    }
+    .languages:hover .popover{
+        display: block;
+        color: orange;
+        transition: 2s;
+        transition-delay: 3s;
+    }
+    .frameworks:hover .popover{
+        display: block;
+        color: orange;
+        transition: 2s;
+        transition-delay: 3s;
+    }
+
